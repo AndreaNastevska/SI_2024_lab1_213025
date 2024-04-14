@@ -43,6 +43,6 @@ Could not apply 677ee1c... Call method makeBigStringFrom in main class
 24. git checkout master
 25. git merge bug2
 26. git push origin master
-27. git push origin master 
-28. незнам зошто ама не ми се покажуват сите комити
+27. git push --force origin bug2
+28. логовите од master
 29. git push origin master
